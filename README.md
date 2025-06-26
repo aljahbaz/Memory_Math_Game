@@ -53,7 +53,7 @@ git clone https://github.com/your-username/memory-matching-game.git
 cd memory-matching-game
 
 ---
-
+```
 ## 🚀 Run Locally
 
 1. Clone the repository:
@@ -66,7 +66,7 @@ Open index.html in your browser:
 bash
 Copy
 Edit
-
+```
 start index.html
 💡 No build tools or installations required.
 
